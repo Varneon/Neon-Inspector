@@ -1,0 +1,18 @@
+{
+  "name": "com.varneon.neon-inspector",
+  "displayName": "Neon Inspector",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "unityRelease": "29f1",
+  "description": "Custom neon-style inspector for V-Inspector",
+  "author": {
+    "name": "Varneon",
+    "url": "https://github.com/Varneon"
+  },
+  "dependencies": {
+    "com.varneon.v-inspector": "^0.1.0"
+  },
+  "vpmDependencies": {
+    "com.varneon.v-inspector": "^0.1.0"
+  }
+}
