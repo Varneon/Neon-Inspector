@@ -2,7 +2,7 @@
 using UnityEngine.UIElements;
 using Varneon.VInspector;
 
-namespace Varneon.VUdon.NeonInspector
+namespace Varneon.NeonInspector
 {
     public class NeonInspector : InspectorBase
     {
