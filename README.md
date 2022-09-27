@@ -6,6 +6,8 @@
 
 Custom neon-style inspector for V-Inspector
 
+![image](https://user-images.githubusercontent.com/26690821/192456306-58a7706f-9ddf-4ae2-b98d-679f8c5d9300.png)
+
 # Installation
 
 <details><summary>
