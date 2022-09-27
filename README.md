@@ -1,3 +1,6 @@
+> ## :construction: This repository is a dependency for other repositories and is still in development :construction:
+> ### Documentation and usage instructions will be provided `Soon™`
+
 <div>
 
 # Neon Inspector [![GitHub](https://img.shields.io/github/license/Varneon/Neon-Inspector?color=blue&label=License&style=flat)](https://github.com/Varneon/Neon-Inspector/blob/main/LICENSE) [![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/Neon-Inspector?style=flat&label=Stars)](https://github.com/Varneon/Neon-Inspector/stargazers) [![GitHub all releases](https://img.shields.io/github/downloads/Varneon/Neon-Inspector/total?color=blue&label=Downloads&style=flat)](https://github.com/Varneon/Neon-Inspector/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/Neon-Inspector?color=blue&label=Release&sort=semver&style=flat)](https://github.com/Varneon/Neon-Inspector/releases/latest)
