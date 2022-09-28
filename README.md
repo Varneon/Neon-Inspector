@@ -15,6 +15,12 @@ Custom neon-style inspector for [V-Inspector](https://github.com/Varneon/V-Inspe
 
 <details><summary>
 
+### Dependencies - `1`</summary>
+
+* [V-Inspector](https://github.com/Varneon/V-Inspector)
+
+</details><details><summary>
+
 ### Import with [VRChat Creator Companion](https://vcc.docs.vrchat.com/vpm/packages#user-packages):</summary>
 
 > 1. Download `com.varneon.neon-inspector.zip` from [here](https://github.com/Varneon/Neon-Inspector/releases/latest)
