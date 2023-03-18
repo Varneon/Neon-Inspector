@@ -1,7 +1,7 @@
 {
   "name": "com.varneon.neon-inspector",
   "displayName": "Neon Inspector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2019.4",
   "unityRelease": "29f1",
   "description": "Custom neon-style inspector for V-Inspector",
