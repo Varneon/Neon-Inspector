@@ -13,7 +13,7 @@
     "com.varneon.v-inspector": "0.1.0"
   },
   "vpmDependencies": {
-    "com.varneon.v-inspector": "0.1.0"
+    "com.varneon.v-inspector": ">=0.1.0 <1.0.0"
   },
   "resolutionStrategy": "highestMinor"
 }
